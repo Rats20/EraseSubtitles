@@ -31,7 +31,7 @@ if __name__ == '__main__':
     num_of_frames = len(masks)
 
     print('Stats of the video')
-    print('Number of frame: ', num_of_frames)
+    print('Number of frames: ', num_of_frames)
 
 
     print('\nDetecting Text...')
