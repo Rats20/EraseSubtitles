@@ -5,8 +5,8 @@ Multilingual Subtitle Text Detection and Removal using Video Inpainting
 Download [Text Detection checkpoints](https://drive.google.com/drive/folders/1ZeimKwzWYDWxHOV6-ES78T5W_kJJAEvP?usp=sharing) and [E2FGVI checkpoints](https://drive.google.com/drive/folders/1duoBn3eHIDpW4hnMmpkZYN4cKtgpLwbU?usp=sharing).
 
 Add the respective pretrained weights to:
-- text_detection dir
-- E2FGVI dir
+- weights to text_detection dir
+- release_model to E2FGVI dir
 
 
 
